@@ -3295,10 +3295,10 @@ M	I-CAR
 	
 Gần	O
 cả	O
-dự_án	O
-Xanh_Vilas	O
+dự_án	B-PRJ
+Xanh_Vilas	I-PRJ
 và	O
-V	O
+V	B-PRJ
 Melody_Vilas_Hoà_Lạc	O
 .	O
 	
@@ -4659,18 +4659,18 @@ vay	O
 Diện_tích	B-LAR
 200m2	I-LAR
 ,	O
-MT	O
-10m	O
+MT	B-HSF
+10m	I-HSF
 ,	O
-4	O
-T.	O
+4	B-NOF
+T.	I-NOF
 -	O
-Giá	O
-:	O
-100	O
-tr	O
-/	O
-m2	O
+Giá	B-PRI
+:	I-PRI
+100	I-PRI
+tr	I-PRI
+/	I-PRI
+m2	I-PRI
 .	O
 	
 *	O
@@ -5234,7 +5234,7 @@ chỉ	O
 bằng	O
 1/2	O
 của	O
-Vinhome_Thăng_Long	O
+Vinhome_Thăng_Long	B-PRJ
 từ	O
 45	O
 tr	O
@@ -7342,16 +7342,16 @@ BIỆT_THỰ	O
 CÓ	O
 SÂN	O
 VƯỜN	O
-PHỐ	O
-ĐẶNG_THAI	O
-MAI	O
+PHỐ	B-STR
+ĐẶNG_THAI	I-STR
+MAI	I-STR
 ,	O
-QUẢNG	O
-AN	O
+QUẢNG	B-WAR
+AN	I-WAR
 ,	O
-TÂY_HỒ	O
+TÂY_HỒ	B-DIS
 ,	O
-HÀ_NỘI	O
+HÀ_NỘI	B-CIT
 .	O
 	
 MẶT_TIỀN	B-HSF
@@ -8719,10 +8719,10 @@ cần	O
 bán	O
 lại	O
 gấp	O
-biệt_thự	O
-hoa	O
-Phượng	O
-5	O
+biệt_thự	B-PRJ
+hoa	I-PRJ
+Phượng	I-PRJ
+5	I-PRJ
 ,	O
 đối_diện	O
 vườn	O
@@ -10901,8 +10901,8 @@ cần	O
 bán	O
 căn	B-LAR
 91m2	I-LAR
-đường	O
-22m	O
+đường	B-RWD
+22m	I-RWD
 hướng	B-DDR
 Đông_Nam	I-DDR
 giá	B-PRI

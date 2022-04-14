@@ -56,7 +56,7 @@ Geleximco	O
 đi	O
 thẳng	O
 sang	O
-Vinhome_Smart_City	O
+Vinhome_Smart_City	B-PRJ
 .	O
 	
 Ai	O
@@ -2069,9 +2069,9 @@ khu	O
 đô_thị	O
 lớn	O
 như	O
-Vinhomes_Ocean_Park	O
+Vinhomes_Ocean_Park	B-PRJ
 ,	O
-Vinhomes_Riverside	O
+Vinhomes_Riverside	B-PRJ
 .	O
 	
 Đã	O
@@ -4390,12 +4390,12 @@ căn	O
 đơn_lập	O
 MGK18	O
 DL16	O
-dự_án	O
-Minh_Giang_Đầm_Và	O
+dự_án	B-PRJ
+Minh_Giang_Đầm_Và	I-PRJ
 ,	O
-Mê_Linh	O
+Mê_Linh	B-DIS
 ,	O
-HN	O
+HN	B-CIT
 .	O
 	
 +	O
@@ -4655,7 +4655,7 @@ tỷ	O
 Độc_quyền	O
 lô	B-COR
 góc	I-COR
-2	I-COR
+2	B-COR
 mặt_tiền	I-COR
 -	O
 đường	B-RWD
@@ -6573,7 +6573,7 @@ mặt	O
 Hồ	O
 Tây	O
 ,	O
-244m2	B-PRI
+244m2	B-LAR
 ,	O
 mặt_tiền	B-HSF
 12m	I-HSF
@@ -6973,7 +6973,7 @@ dễ_dàng	O
 tiếp_cận	O
 tuyến	O
 Metro	O
-Cát_Linh	B-STR
+Cát_Linh	B-WAR
 -	O
 Hà_Đông	B-DIS
 ,	O
@@ -7705,9 +7705,9 @@ chuyển_nhượng	O
 lâu	O
 năm	O
 tại	O
-khu	O
-đô_thị	O
-Suny_Garden_City	O
+khu	B-PRJ
+đô_thị	I-PRJ
+Suny_Garden_City	I-PRJ
 .	O
 	
 Hướng	B-DDR

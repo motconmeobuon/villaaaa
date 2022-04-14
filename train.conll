@@ -1022,9 +1022,9 @@ hotline	O
 .	O
 	
 +	O
-Sổ_đỏ	O
-chính	O
-chủ	O
+Sổ_đỏ	B-LEG
+chính	I-LEG
+chủ	I-LEG
 .	O
 	
 Bán	O
@@ -1656,9 +1656,9 @@ yoga	O
 spa	O
 .	O
 	
-Xây	O
-3	O
-tầng	O
+Xây	B-NOF
+3	I-NOF
+tầng	I-NOF
 1	O
 tum	O
 hoàn_thiện	O
@@ -5838,14 +5838,14 @@ lời	O
 cao	O
 .	O
 	
-DIỆN_TÍCH	O
-XÂY_DỰNG	O
-TẦNG	O
-1	O
-:	O
-68.3	O
-M	O
-2	O
+DIỆN_TÍCH	B-CAR
+XÂY_DỰNG	I-CAR
+TẦNG	I-CAR
+1	I-CAR
+:	I-CAR
+68.3	I-CAR
+M	I-CAR
+2	I-CAR
 .	O
 	
 .	O
@@ -8004,8 +8004,8 @@ giám_sát	O
 Căn	O
 shophouse	O
 đầu	O
-đường	O
-40m	O
+đường	B-RWD
+40m	I-RWD
 ,	O
 mặt	B-RWD
 đường	I-RWD
@@ -8104,8 +8104,8 @@ hồ	O
 Thiên_Văn_Học	O
 Lớn	O
 nhất	O
-Quận	O
-Hà_Đông	O
+Quận	B-DIS
+Hà_Đông	I-DIS
 .	O
 	
 .	O
@@ -8479,8 +8479,8 @@ M2	I-LAR
 HƯỚNG	B-DDR
 TN	I-DDR
 ,	O
-ĐƯỜNG	O
-12M	O
+ĐƯỜNG	B-RWD
+12M	I-RWD
 ,	O
 GIÁ	B-PRI
 46	I-PRI
@@ -9425,8 +9425,8 @@ cây_cảnh	O
 THỬA	B-SHP
 ĐẤT	I-SHP
 VUÔNG_VẮN	I-SHP
-XÂY_DỰNG	I-SHP
-4	B-NOF
+XÂY_DỰNG	B-NOF
+4	I-NOF
 TẦNG	I-NOF
 KIÊN_CỐ	O
 TRÊN	O
@@ -11671,10 +11671,10 @@ nhà	O
 .	O
 	
 -	O
-KĐT	O
-Hà	O
-đô	O
-Charm_Vilas	O
+KĐT	B-PRJ
+Hà	I-PRJ
+đô	I-PRJ
+Charm_Vilas	I-PRJ
 .	O
 	
 +	O
@@ -13207,9 +13207,9 @@ nhà	O
 *	O
 .	O
 	
-Nhà	O
-4	O
-tầng	O
+Nhà	B-NOF
+4	I-NOF
+tầng	I-NOF
 hoàn_thiện	O
 ngoài	O
 ,	O
@@ -13543,10 +13543,10 @@ góc	I-COR
 Lan_Viên_Khu	O
 đô_thị	O
 Đặng_Xá	O
-300m2	O
-giá	O
-28	O
-tỷ	O
+300m2	B-LAR
+giá	B-PRI
+28	I-PRI
+tỷ	I-PRI
 lh	O
 .	O
 943791	O
@@ -13682,13 +13682,13 @@ căn	O
 shophouse	O
 liền	O
 kề	O
-Hải_Âu	O
-2	O
-Vinhomes_Ocean_Park	O
+Hải_Âu	B-PRJ
+2	I-PRJ
+Vinhomes_Ocean_Park	B-PRJ
 ,	O
-Gia_Lâm	O
+Gia_Lâm	B-DIS
 ,	O
-Hà_Nội	O
+Hà_Nội	B-CIT
 .	O
 	
 -	O
@@ -14128,8 +14128,8 @@ kinh_doanh	O
 cực	O
 tốt	O
 mặt	O
-đường	O
-40m	O
+đường	B-RWD
+40m	I-RWD
 ,	O
 2	O
 mặt	O
@@ -15259,8 +15259,8 @@ BIỆT_THỰ	O
 ĐƠN_LẬP	O
 DÃY	O
 A5	O
-LÔ	O
-GÓC	O
+LÔ	B-COR
+GÓC	I-COR
 THOÁNG	O
 ,	O
 ĐẸP	O
@@ -17027,12 +17027,12 @@ bán	O
 biệt_thự	B-PRJ
 Vinhomes_Gardenia	I-PRJ
 ,	O
-B9	O
-Vinhomes_Gardenia	O
+B9	B-PRJ
+Vinhomes_Gardenia	I-PRJ
 ,	O
-Mỹ_Đình	O
+Mỹ_Đình	B-WAR
 ,	O
-Nam_Từ_Liêm	O
+Nam_Từ_Liêm	B-DIS
 .	O
 	
 Quý_khách	O
@@ -17342,13 +17342,13 @@ DIỆU	O
 NGÕ	O
 THÔNG	O
 SANG	O
-PHỐ	O
-TÂY_HỒ	O
+PHỐ	B-STR
+TÂY_HỒ	I-STR
 VÀ	O
-ĐƯỜNG	O
-TÔ	O
-NGỌC	O
-VÂN	O
+ĐƯỜNG	B-STR
+TÔ	I-STR
+NGỌC	I-STR
+VÂN	I-STR
 .	O
 	
 Liên_hệ	O
@@ -24716,9 +24716,9 @@ HẠ_TẦNG	O
 ,	O
 CÁCH	O
 MẶT	O
-ĐƯỜNG	O
-LÊ_TRỌNG	O
-TẤN	O
+ĐƯỜNG	B-STR
+LÊ_TRỌNG	I-STR
+TẤN	I-STR
 50M	O
 .	O
 	
@@ -27165,8 +27165,8 @@ HĐMB	O
 .	O
 	
 Tại	O
-KĐT	O
-Đặng_Xá	O
+KĐT	B-PRJ
+Đặng_Xá	I-PRJ
 .	O
 	
 *	O
@@ -27787,8 +27787,8 @@ gấp	O
 BT	O
 Song	O
 Lập	O
-KĐTM	O
-Vân_Canh	O
+KĐTM	B-PRJ
+Vân_Canh	I-PRJ
 .	O
 	
 -	O
@@ -28761,7 +28761,7 @@ bám	O
 theo	O
 đường	O
 lớn	O
-Tố_Hữu	O
+Tố_Hữu	B-STR
 .	O
 	
 -	O
@@ -31360,7 +31360,7 @@ kinh_doanh	O
 Vinhomes	O
 B5	O
 18	O
-Vinhomes_Gardenia	O
+Vinhomes_Gardenia	B-PRJ
 để	O
 được	O
 hỗ_trợ	O
@@ -32880,7 +32880,7 @@ nhà	O
 nghỉ_dưỡng	O
 trong	O
 lòng	O
-Hà_Nôi	O
+Hà_Nôi	B-CIT
 .	O
 	
 Giá	O
@@ -33323,15 +33323,15 @@ quảng_cáo	O
 GIAO_THÔNG	O
 THUẬN_TIỆN	O
 GẦN	O
-PHỐ	O
-TRẦN	O
-ĐIỀN	O
+PHỐ	B-STR
+TRẦN	I-STR
+ĐIỀN	I-STR
 ,	O
-TRẦN	O
-NGUYÊN_ĐÁN	O
+TRẦN	B-STR
+NGUYÊN_ĐÁN	I-STR
 ,	O
-LÊ_TRỌNG	O
-TẤN	O
+LÊ_TRỌNG	B-STR
+TẤN	I-STR
 .	O
 	
 NỘI_THẤT	O
@@ -35644,7 +35644,7 @@ BIỆT_THỰ	O
 LIỀN	O
 KỀ	O
 -	O
-HAI_BÀ_TRƯNG	O
+HAI_BÀ_TRƯNG	B-DIS
 .	O
 	
 +	O
@@ -36837,11 +36837,11 @@ MẶT_TIỀN	B-HSF
 6M	I-HSF
 .	O
 -	O
-GIÁ	O
-CHÀO	O
-:	O
-22.5	O
-TỶ	O
+GIÁ	B-PRI
+CHÀO	I-PRI
+:	I-PRI
+22.5	I-PRI
+TỶ	I-PRI
 (	O
 CỰC	O
 THIỆN_CHÍ	O
@@ -38811,11 +38811,11 @@ mặt_tiền	B-HSF
 m	I-HSF
 ,	O
 tiếp_giáp	O
-đường	O
-24m	O
+đường	B-RWD
+24m	I-RWD
 và	O
-đường	O
-30m	O
+đường	B-RWD
+30m	I-RWD
 .	O
 	
 .	O
@@ -39386,8 +39386,8 @@ chủ	I-LEG
 TỪ_TỐ	O
 HỮU	O
 -	O
-LÊ_VĂN	O
-LƯƠNG	O
+LÊ_VĂN	B-STR
+LƯƠNG	I-STR
 QUA	O
 KHU	O
 DƯƠNG	O
@@ -39397,8 +39397,8 @@ QUA	O
 NÚT	O
 GIAO	O
 VỚI	O
-LÊ_TRỌNG	O
-TẤN	O
+LÊ_TRỌNG	B-STR
+TẤN	I-STR
 ĐẾN	O
 KHU	O
 SOL	O
@@ -40832,7 +40832,7 @@ diện_tích	B-LAR
 ,	O
 căn	B-DDR
 góc	I-DDR
-3	I-DDR
+3	B-DDR
 mặt	I-DDR
 vỉa_hè	O
 ,	O
@@ -42693,14 +42693,14 @@ và	O
 21,5	O
 m	O
 ,	O
-ô	O
-góc	O
+ô	B-COR
+góc	I-COR
 khe	O
 thoáng	O
 ,	O
 giáp	O
-đường	O
-Lê_Quang_Đạo	O
+đường	B-STR
+Lê_Quang_Đạo	I-STR
 ,	O
 đặc_biệt	O
 sở_hữu	O
@@ -44253,12 +44253,12 @@ liền	O
 kề	O
 Bảo_Sơn	O
 mặt	O
-đường	O
-Lê_Trọng_Tấn	O
+đường	B-STR
+Lê_Trọng_Tấn	I-STR
 ,	O
-An_Khánh	O
+An_Khánh	B-WAR
 ,	O
-Hoài_Đức	O
+Hoài_Đức	B-DIS
 .	O
 	
 Tôi	O
@@ -44787,18 +44787,18 @@ NHƯỢNG	O
 LẠI	O
 CĂN	B-COR
 GÓC	I-COR
-ĐƯỜNG	O
-30M	O
+ĐƯỜNG	B-RWD
+30M	I-RWD
 TO	O
 NHẤT	O
-DỰ_ÁN	O
-KĐT	O
-ATHENA	O
-FULAND	O
+DỰ_ÁN	B-PRJ
+KĐT	I-PRJ
+ATHENA	I-PRJ
+FULAND	I-PRJ
 ,	O
 ĐỐI_DIỆN	O
-CHUNG_CƯ	O
-THÔNG_TẤN_XÃ	O
+CHUNG_CƯ	B-PRJ
+THÔNG_TẤN_XÃ	I-PRJ
 ,	O
 TƯƠNG_LAI	O
 NỐI	O
@@ -44935,7 +44935,7 @@ m	I-RWD
 thông	O
 thẳng	O
 ra	O
-Võ_Chí_Công	O
+Võ_Chí_Công	B-STR
 ,	O
 nhiều	O
 cây_xanh	O
@@ -46535,10 +46535,10 @@ nhất	O
 cập_nhật	O
 mới	O
 ,	O
-hướng	O
-ĐN	O
-,	O
-ĐB	O
+hướng	B-DDR
+ĐN	I-DDR
+,	I-DDR
+ĐB	I-DDR
 phú_quý	O
 .	O
 	
@@ -47064,9 +47064,9 @@ tiền	O
 bán	O
 gấp	O
 căn	O
-shophouse	O
-Khai_Sơn_Long_Biên	O
-99m2	O
+shophouse	B-PRJ
+Khai_Sơn_Long_Biên	I-PRJ
+99m2	B-LAR
 ,	O
 giá	O
 rẻ	O
@@ -47578,9 +47578,9 @@ bắc	I-DDR
 ,	O
 đường	B-RWD
 10	I-RWD
--	O
-13.5	O
-m	O
+-	I-RWD
+13.5	I-RWD
+m	I-RWD
 .	O
 	
 -	O
@@ -48073,10 +48073,10 @@ lớn	I-HSF
 7.5	I-HSF
 mét	I-HSF
 ;	O
-mặt	O
-đường	O
-30	O
-mét	O
+mặt	B-RWD
+đường	I-RWD
+30	I-RWD
+mét	I-RWD
 ;	O
 Vỉa_hè	O
 rộng_rãi	O
@@ -49932,10 +49932,10 @@ Sân	O
 vườn	O
 .	O
 	
-KHU	O
-ĐTM	O
-DƯƠNG	O
-NỘI	O
+KHU	B-PRJ
+ĐTM	I-PRJ
+DƯƠNG	I-PRJ
+NỘI	I-PRJ
 ,	O
 HÀ_ĐÔNG	B-DIS
 ,	O
@@ -49943,9 +49943,9 @@ HÀ_NỘI	B-CIT
 NẰM	O
 TRÊN	O
 TRỤC	O
-ĐƯỜNG	O
-TỐ	O
-HỮU	O
+ĐƯỜNG	B-STR
+TỐ	I-STR
+HỮU	I-STR
 KÉO_DÀI	O
 .	O
 	
@@ -50369,8 +50369,8 @@ khu	O
 công_nghiệp	O
 trọng_điểm	O
 của	O
-huyện	O
-Chương_Mỹ	O
+huyện	B-DIS
+Chương_Mỹ	I-DIS
 .	O
 	
 Khi	O
@@ -51482,8 +51482,8 @@ diện_tích	B-LAR
 76,4	I-LAR
 m2	I-LAR
 ,	O
-mặt_tiền	O
-7m	O
+mặt_tiền	B-HSF
+7m	I-HSF
 ,	O
 xây	O
 thô	O
@@ -51562,8 +51562,8 @@ biệt	O
 tự	O
 liền	O
 kề	O
-khu	O
-Gamuda_Hoàng_Mai	O
+khu	B-PRJ
+Gamuda_Hoàng_Mai	I-PRJ
 ,	O
 nhà	O
 đã	O
@@ -51876,12 +51876,12 @@ Geleximco_Dương_Nội	I-PRJ
 ,	O
 Hà_Đông	B-DIS
 -	O
-giá	B-LAR
-đất	I-LAR
-72	I-LAR
-tr	I-LAR
-/	I-LAR
-m2	I-LAR
+giá	B-PRI
+đất	I-PRI
+72	B-PRI
+tr	I-PRI
+/	B-PRI
+m2	I-PRI
 +	O
 xây	O
 thô	O
@@ -56102,8 +56102,8 @@ rộng	O
 	
 -	O
 Gần	O
-KĐT	O
-Vinhome_Thăng_Long	O
+KĐT	B-PRJ
+Vinhome_Thăng_Long	I-PRJ
 .	O
 	
 *	O
@@ -56805,8 +56805,8 @@ hoàn_thiện	O
 nội_thất	O
 sang_trọng	O
 tại	O
-Hanoi_Garden_City_Thạch	O
-Bàn	O
+Hanoi_Garden_City_Thạch	B-PRJ
+Bàn	I-PRJ
 ,	O
 chỉ	O
 cần	O
@@ -57161,11 +57161,11 @@ nhà	O
 liền	O
 kề	O
 DV	O
-Đìa_Lão	O
+Đìa_Lão	B-WAR
 -	O
-Mậu_Lương	O
+Mậu_Lương	B-WAR
 -	O
-Hà_Đông	O
+Hà_Đông	B-DIS
 xây	B-NOF
 6	I-NOF
 tầng	I-NOF
@@ -57640,8 +57640,8 @@ LH	O
 	
 Mở	O
 bán	O
-shophouse	O
-Sunshine_Capital_Tây_Thăng	B-PRJ
+shophouse	B-PRJ
+Sunshine_Capital_Tây_Thăng	I-PRJ
 Long	I-PRJ
 đường	B-RWD
 60m	I-RWD
@@ -57649,9 +57649,9 @@ hiện_hữu	O
 ,	O
 kết_nối	O
 tới	O
-KĐT	O
-Tây_Hồ	O
-Tây	O
+KĐT	B-PRJ
+Tây_Hồ	I-PRJ
+Tây	I-PRJ
 và	O
 Ngoại_Giao_Đoàn	O
 chỉ	O
@@ -57901,16 +57901,16 @@ Thuỷ	O
 .	O
 	
 Bán	O
-biệt_thự	O
-An_Lạc	O
-SymPhony	O
-200m2	O
-xây	O
-3	O
-tầng	O
-giá	O
-24	O
-tỷ	O
+biệt_thự	B-PRJ
+An_Lạc	I-PRJ
+SymPhony	I-PRJ
+200m2	B-LAR
+xây	B-NOF
+3	I-NOF
+tầng	I-NOF
+giá	B-PRI
+24	I-PRI
+tỷ	I-PRI
 lh	O
 .	O
 961288	O
@@ -58932,9 +58932,9 @@ Him_Lam_Vạn_Phúc	O
 gần	O
 đường	O
 27m	O
-giá	O
-17.1	O
-tỷ	O
+giá	B-PRI
+17.1	I-PRI
+tỷ	I-PRI
 .	O
 975.674	O
 .	O
@@ -59607,8 +59607,8 @@ LK31	O
 DIỆN_TÍCH	B-LAR
 79M2	I-LAR
 ,	O
-ĐƯỜNG	O
-12	O
+ĐƯỜNG	B-RWD
+12	I-RWD
 ,	O
 HĐMB	O
 ,	O
@@ -62606,17 +62606,17 @@ cây_xanh	O
 DT	B-LAR
 126m2	I-LAR
 ,	O
-xây	O
-279m2	O
-sử_dụng	O
+xây	B-CAR
+279m2	I-CAR
+sử_dụng	I-CAR
 ,	O
-hướng	O
-đông	O
-bắc	O
+hướng	B-DDR
+đông	I-DDR
+bắc	I-DDR
 ,	O
-giá	O
-24	O
-tỷ	O
+giá	B-PRI
+24	I-PRI
+tỷ	I-PRI
 .	O
 	
 Liên_hệ	O
@@ -63255,23 +63255,23 @@ tuyến	O
 phố	O
 lơớ	O
 như	O
-đường	O
-19/5	O
+đường	B-STR
+19/5	I-STR
 ,	O
-văn	O
-quán	O
+văn	B-STR
+quán	I-STR
 ,	O
-nguyễn_khuyến	O
+nguyễn_khuyến	B-STR
 ,	O
-chiến_thắng	O
+chiến_thắng	B-STR
 ,	O
-an	O
-hoà	O
+an	B-STR
+hoà	I-STR
 ,	O
-trần	O
-phú	O
+trần	B-STR
+phú	I-STR
 ,	O
-nguyễn_trãi	O
+nguyễn_trãi	B-STR
 ,	O
 làng	O
 việt_kiều	O
@@ -63752,8 +63752,8 @@ lịch_sự	O
 -	O
 Cách	O
 bệnh_viện	O
-huyện	O
-Gia_Lâm	O
+huyện	B-DIS
+Gia_Lâm	I-DIS
 chỉ	O
 5	O
 phút	O
@@ -63781,8 +63781,8 @@ A	O
 -	O
 Le_Jardin_Park_City	O
 Hà_Nội	O
-đường	O
-Lê_Trọng_Tấn	O
+đường	B-STR
+Lê_Trọng_Tấn	I-STR
 ,	O
 cực	O
 hiếm	O
@@ -65679,16 +65679,16 @@ Tỷ_lệ	O
 xây_dựng	O
 cao	O
 :	O
-85m2	O
-1	O
-sàn	O
+85m2	B-CAR
+1	I-CAR
+sàn	I-CAR
 ,	O
 xây_dựng	B-NOF
 4	I-NOF
 tầng	I-NOF
-tổng	O
-499	O
-m2	O
+tổng	B-CAR
+499	I-CAR
+m2	I-CAR
 .	O
 	
 -	O
@@ -65987,19 +65987,19 @@ vị_trí	O
 đẹp	O
 bậc	O
 nhất	O
-khu	O
-thấp_tầng	O
-Licogi	O
-13	O
+khu	B-PRJ
+thấp_tầng	I-PRJ
+Licogi	I-PRJ
+13	I-PRJ
 ,	O
 đi	O
 được	O
 từ	O
-Khuất_Duy_Tiến	O
+Khuất_Duy_Tiến	B-STR
 ,	O
-Lê_Văn_Lương	O
+Lê_Văn_Lương	B-STR
 ,	O
-Nguỵ_Như_Kon_Tum	O
+Nguỵ_Như_Kon_Tum	B-STR
 .	O
 	
 LH	O
@@ -67223,11 +67223,11 @@ có	O
 vị_trí	O
 đẹp	O
 nhất	O
-khu	O
-công_nghệ_cao	O
-Hoà_Lạc	O
+khu	B-PRJ
+công_nghệ_cao	I-PRJ
+Hoà_Lạc	I-PRJ
 ,	O
-Hà_Nội	O
+Hà_Nội	`
 .	O
 	
 -	O
@@ -69402,12 +69402,12 @@ biệt_thự	O
 vila	O
 Huyndai	O
 -	O
-Hà_Đông	O
+Hà_Đông	B-DIS
 -	O
 gần	O
 UBND	O
-Quận	O
-Hà_Đông	O
+Quận	B-DIS
+Hà_Đông	I-DIS
 -	O
 khu	O
 an_ninh	O
@@ -73168,12 +73168,12 @@ thành_phố	O
 +	O
 Biệt_thự	B-PRJ
 Gardenia_Hàm_Nghi	I-PRJ
-154m2	O
+154m2	B-LAR
 ,	O
-5	O
-tầng	O
-mặt_tiền	O
-8m	O
+5	B-NOF
+tầng	I-NOF
+mặt_tiền	B-HSF
+8m	I-HSF
 .	O
 	
 Chính	O
@@ -78453,12 +78453,12 @@ Ofice	O
 :	O
 B5	O
 18	O
-Vinhomes_Gardenia	O
+Vinhomes_Gardenia	B-PRJ
 ,	O
-Hàm_Nghi	O
+Hàm_Nghi	B-STR
 ,	O
-Cầu	O
-Diễn	O
+Cầu	B-STR
+Diễn	I-STR
 ,	O
 Mỹ_Đình	B-WAR
 ,	O
@@ -78866,8 +78866,8 @@ CĂN	O
 LOUIS	O
 17	O
 GẦN	O
-ĐƯỜNG	O
-30M	O
+ĐƯỜNG	B-RWD
+30M	I-RWD
 ,	O
 TRƯỜNG_HỌC	O
 ,	O
@@ -79324,8 +79324,8 @@ DO	O
 Ở	O
 N	O
 BÁN	O
-BIỆT_THỰ	O
-CIPUTRA	O
+BIỆT_THỰ	B-PRJ
+CIPUTRA	I-PRJ
 KHU	O
 Q.	O
 DIỆN_TÍCH	B-LAR
@@ -80290,8 +80290,8 @@ và	O
 .	O
 	
 LK23	O
-Ô	O
-GÓC	O
+Ô	B-COR
+GÓC	I-COR
 ,	O
 PHỐ	O
 ĐI	O
@@ -80856,12 +80856,12 @@ sẵn_sàng	O
 giao_dịch	O
 .	O
 	
--	O
-Giá	O
-chỉ	O
-từ	O
-15.8	O
-tỷ	O
+-	B-PRI
+Giá	I-PRI
+chỉ	I-PRI
+từ	I-PRI
+15.8	I-PRI
+tỷ	I-PRI
 có	O
 thương_lượng	O
 với	O
@@ -82070,7 +82070,7 @@ lại	O
 biệt_thự	B-PRJ
 đơn_lập	I-PRJ
 Hoa_Phượng	I-PRJ
-4	O
+4	I-PRJ
 ,	O
 Vinhomes_Riverside	B-PRJ
 .	O
@@ -83850,7 +83850,7 @@ TIỆN	O
 -	O
 Đường	O
 thông	O
-Vinhome_Smart_City	O
+Vinhome_Smart_City	B-PRJ
 ,	O
 giáp	O
 với	O
@@ -83858,7 +83858,7 @@ toà	O
 Phân_khu	O
 the	O
 victoria	O
-Vinhome_Smart_City	O
+Vinhome_Smart_City	B-PRJ
 ,	O
 trường	O
 tiểu_học	O
@@ -85579,9 +85579,9 @@ nhà	O
 ở	O
 liền	O
 kề	O
-C9	O
-Nam_Trung	O
-Yên	O
+C9	B-PRJ
+Nam_Trung	I-PRJ
+Yên	I-PRJ
 .	O
 	
 Mặt	B-RWD
@@ -87611,9 +87611,9 @@ PHỐ	O
 QUẢNG	O
 AN	O
 -	O
-MẶT	O
-HỒ	O
-TÂY	O
+MẶT	B-STR
+HỒ	I-STR
+TÂY	I-STR
 .	O
 	
 Song	O
